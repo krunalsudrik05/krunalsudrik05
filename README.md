@@ -60,6 +60,13 @@ I am passionate about **continuous learning**, **agile methodologies**, and buil
 * Demo project built while learning **PHP and Laravel**
 * Implements basic CRUD functionality
 
+### 🎓 Web Portfolio
+
+🔗 [https://github.com/krunalsudrik05/portfolio](https://github.com/krunalsudrik05/portfolio)
+
+* My web portfolio project using **React JS**
+* Easy to share my profile and work.
+
 ---
 
 ## 🛠️ Tech Stack
